@@ -1,0 +1,9 @@
+Building WTFCoin
+
+See doc/readme-qt.rst for instructions on building WTFCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WTFCoin.
+
+See doc/build-*.txt for instructions on building WTFCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WTFCoin.
